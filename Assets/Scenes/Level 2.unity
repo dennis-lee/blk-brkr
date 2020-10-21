@@ -940,6 +940,11 @@ PrefabInstance:
       propertyPath: paddle
       value: 
       objectReference: {fileID: 1867551149}
+    - target: {fileID: 4129730445299370055, guid: 2f80fa527fad4cd44b75de4dcc80bf5d,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: bf01b04a691951e4996a1f4a3e469b58, type: 2}
     - target: {fileID: 4129730445299370057, guid: 2f80fa527fad4cd44b75de4dcc80bf5d,
         type: 3}
       propertyPath: m_LocalPosition.x
