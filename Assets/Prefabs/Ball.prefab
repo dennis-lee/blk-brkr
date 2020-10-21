@@ -138,7 +138,6 @@ MonoBehaviour:
   xPush: 2
   yPush: 15
   ballSounds:
-  - {fileID: 8300000, guid: 7172db43ba473754abd01ece56dc7f69, type: 3}
   - {fileID: 8300000, guid: 6a17771770274a6419dd8fa314b8b86f, type: 3}
   - {fileID: 8300000, guid: 40884d5af85cebb4fab6170b3949048c, type: 3}
   - {fileID: 8300000, guid: 4cd93ecca2781294db8d77f526ca8a7c, type: 3}

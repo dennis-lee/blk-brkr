@@ -298,21 +298,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Block
       objectReference: {fileID: 0}
-    - target: {fileID: 2861432115269680571, guid: aa20ff6723b8cd040ad28b822fa35fd0,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2861432115269680571, guid: aa20ff6723b8cd040ad28b822fa35fd0,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2861432115269680571, guid: aa20ff6723b8cd040ad28b822fa35fd0,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 2861432115269680572, guid: aa20ff6723b8cd040ad28b822fa35fd0,
         type: 3}
       propertyPath: m_LocalPosition.x
